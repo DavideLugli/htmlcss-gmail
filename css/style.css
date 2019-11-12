@@ -1,0 +1,67 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url("../img/wood-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 90vw;
+  margin: auto;
+}
+
+hr {
+  color: white;
+}
+
+.header-top {
+  height: 90px;
+  line-height: 90px;
+}
+
+.logo {
+  width: 80px;
+  vertical-align: middle;
+}
+
+.logo-title {
+  display: inline;
+  color: #fff;
+}
+
+button {
+  border-radius: 5px;
+}
+
+.title-messages {
+  color: #fff;
+}
+
+.title-messages span {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+  background: #FFA500;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.email {
+  background-color: grey;
+  border: 1px solid black;
+  padding: 3px;
+}
+
+.email p {
+  display: inline;
+}
+
+.read {
+  background: white;
+}
+
+.footer {
+  text-align: center;
+  color: #fff;
+}
